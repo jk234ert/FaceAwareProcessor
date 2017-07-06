@@ -1,5 +1,4 @@
 # FaceAwareProcessor
---
 
 FaceAwareProcessor is a simple ***ImageProcessor*** which automatically detect faces in your images and adjust them center. 
 
